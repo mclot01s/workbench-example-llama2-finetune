@@ -1,2 +1,3 @@
-jupyterlab==4.1.3
+jupyterlab>3.0
 ipywidgets
+nemo_toolkit[all]==2.5.0
