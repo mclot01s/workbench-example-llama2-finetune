@@ -22,7 +22,7 @@ layout:
 environment:
   base:
     registry: nvcr.io
-    image: nvidia/nemo:24.01.framework
+    image: nvidia/pytorch:25.09-py3 #nvidia/nemo:24.01.framework
     build_timestamp: "20231212000523"
     name: NeMo Framework GA Training Container
     supported_architectures: []
